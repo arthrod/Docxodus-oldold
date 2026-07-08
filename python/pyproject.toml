@@ -31,6 +31,7 @@ dependencies = []
 
 [project.optional-dependencies]
 test = ["pytest>=7.4"]
+bench = ["pytest-codspeed>=4"]
 
 [project.urls]
 Homepage = "https://github.com/JSv4/Docxodus"
